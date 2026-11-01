@@ -10,7 +10,7 @@ O **Pausa Digital** é um projeto desenvolvido no contexto acadêmico da discipl
 * **Pílulas de Microlearning:** Sistema dinâmico de dicas e reflexões diárias focadas no bem-estar digital e na ergonomia cognitiva.
 * **Simulador e Timer de Pausa:** Ferramentas práticas para calcular o tempo recuperado[cite: 2] e cronometrar pausas ativas na rotina diária.
 
-* **Link de Deploy (GitHub Pages):** `https://seu-usuario.github.io/nome-do-repositorio/`[cite: 2]`
+* **Link de Deploy (GitHub Pages):** ` https://jaodwk.github.io/pausa-digital-main/`[cite: 2]`
 
 ---
 
